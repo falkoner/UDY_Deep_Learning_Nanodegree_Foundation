@@ -14,3 +14,11 @@ face_generation/data/
 
 */.floyd*
 
+*/data/
+__pycache__
+checkpoints/
+*.gz
+*.pickle
+*.zip
+saved_networks/
+cifar-10-batches-py/
